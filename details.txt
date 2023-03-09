@@ -1,0 +1,13 @@
+                                                             
+                                         THE SPARKS FOUNDATION
+                                          
+                                           BASIC BANKING SYSTEM
+                        
+                                   WEB DEVELOPMENT INTERNSHIP
+
+                                         Name : SRAVANI BASWARAJ
+
+                          Technologies used: HTML,CSS,BOOTSTRAP,PHP
+                   
+                                                  Database : MySQL                                      
+                                                                                    
